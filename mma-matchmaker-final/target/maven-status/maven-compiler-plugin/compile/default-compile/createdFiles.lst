@@ -1,0 +1,14 @@
+cz/vspojekt/mmamatchmaker/WeightClass.class
+cz/vspojekt/mmamatchmaker/MatchmakingController.class
+cz/vspojekt/mmamatchmaker/FighterDTO.class
+cz/vspojekt/mmamatchmaker/FighterController.class
+cz/vspojekt/mmamatchmaker/WeightClassValidator.class
+cz/vspojekt/mmamatchmaker/MatchRequestDTO.class
+cz/vspojekt/mmamatchmaker/SecurityConfig.class
+cz/vspojekt/mmamatchmaker/FighterService.class
+cz/vspojekt/mmamatchmaker/FighterRepository.class
+cz/vspojekt/mmamatchmaker/MatchmakingService.class
+cz/vspojekt/mmamatchmaker/Fighter.class
+cz/vspojekt/mmamatchmaker/MmamatchmakerApplication.class
+cz/vspojekt/mmamatchmaker/FighterServiceImpl.class
+cz/vspojekt/mmamatchmaker/GlobalExceptionHandler.class
